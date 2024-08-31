@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "xiaomi-sagit",
-      "repo": "https://github.com/AOSP-11/kernel_xiaomi_msm8998.git",
-      "branch": "11",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_msm8998",
+      "branch": "lineage-21",
       "device": "sagit",
       "defconfig": "sagit_defconfig"
     },
